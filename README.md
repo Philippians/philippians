@@ -7,8 +7,7 @@
 
 > ⚡ Fun fact: I like music, anime, and photography.
 
-<img src="https://emoji.gg/assets/emoji/KannaSip.png" alt="Kanna" height="50" />
-[Here is my facebook account!](https://www.facebook.com/philipjulrenzpionelo/)
+<img src="https://emoji.gg/assets/emoji/KannaSip.png" alt="Kanna" height="50" /> [Here is my facebook account!](https://www.facebook.com/philipjulrenzpionelo/)
 
 <!--
 **Philippians/philippians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
