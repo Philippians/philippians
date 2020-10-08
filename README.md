@@ -1,7 +1,7 @@
 ![Image](https://emoji.gg/assets/emoji/KannaSip.png) 
 #  Philip Julrenz A. Pionelo 👨‍💼
 #### Computer Engineering Student - 3rd Year 💻
-###### Adamson University 🎓 \\
+###### Adamson University 🎓 \n
 > 🤖 I’m currently learning **python** and **html**.
 
 
