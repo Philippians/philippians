@@ -1,5 +1,5 @@
-<img src="https://emoji.gg/assets/emoji/KannaSip.png" alt="Kanna" width="150" height="100" />
-// ![Image](https://emoji.gg/assets/emoji/KannaSip.png) 
+<img src="https://emoji.gg/assets/emoji/KannaSip.png" alt="Kanna" width="150" height="100" /><br/>
+//![Image](https://emoji.gg/assets/emoji/KannaSip.png) 
 #  Philip Julrenz A. Pionelo 👨‍💼
 #### Computer Engineering Student - 3rd Year 💻 <br/>
 ###### Adamson University 🎓
