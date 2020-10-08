@@ -1,9 +1,9 @@
 ![Image](https://emoji.gg/assets/emoji/KannaSip.png) 
 # Philip Julrenz A. Pionelo 👨‍💼
-## 3rd Year Computer Engineering Student
-###### Adamson University
+#### Computer Engineering Student - 3rd Year 🧑‍💻
+###### Adamson University 🎓
 
-🌱 I’m currently learning python and html.
+🤖 I’m currently learning **python** and **html**.
 
 <!--
 **Philippians/philippians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
