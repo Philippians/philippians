@@ -1,4 +1,8 @@
-### Hi there 👋
+### Philip Julrenz A. Pionelo 👋
+## 3rd Yer Computer Engineering Student
+# Adamson University
+
+🌱 I’m currently learning python and html.
 
 <!--
 **Philippians/philippians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
