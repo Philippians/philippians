@@ -1,4 +1,3 @@
-<img src="https://emoji.gg/assets/emoji/KannaSip.png" alt="Kanna" height="50" /><br/>
 #  Philip Julrenz A. Pionelo 👨‍💼
 #### Computer Engineering Student - 3rd Year 💻 <br/>
 ###### Adamson University 🎓
@@ -8,7 +7,7 @@
 
 > ⚡ Fun fact: I like music, anime, and photography.
 
-
+<img src="https://emoji.gg/assets/emoji/KannaSip.png" alt="Kanna" height="50" /><br/>
 [Here is my facebook account!](https://www.facebook.com/philipjulrenzpionelo/)
 
 <!--
