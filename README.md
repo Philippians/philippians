@@ -1,4 +1,5 @@
-![Image](https://emoji.gg/assets/emoji/KannaSip.png) # Philip Julrenz A. Pionelo 
+![Image](https://emoji.gg/assets/emoji/KannaSip.png) 
+# Philip Julrenz A. Pionelo 
 ## 3rd Yer Computer Engineering Student
 ### Adamson University
 
