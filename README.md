@@ -3,11 +3,9 @@
 #### Computer Engineering Student - 3rd Year 💻
 ###### Adamson University 🎓
 
-🤖 I’m currently learning **python** and **html**.
+> 🤖 I’m currently learning **python** and **html**.
 
-```
-code
-```
+[My Facebook](https://www.facebook.com/philipjulrenzpionelo/)
 
 <!--
 **Philippians/philippians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
