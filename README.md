@@ -1,6 +1,6 @@
-### Philip Julrenz A. Pionelo 👋
+# Philip Julrenz A. Pionelo 👋
 ## 3rd Yer Computer Engineering Student
-# Adamson University
+### Adamson University
 
 🌱 I’m currently learning python and html.
 
