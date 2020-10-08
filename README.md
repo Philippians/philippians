@@ -6,8 +6,10 @@
 
 > 🤖 I’m currently learning **python** and **html**.
 
+> ⚡ Fun fact: I like music, anime, and photography.
 
-[My Facebook](https://www.facebook.com/philipjulrenzpionelo/)
+
+[Here is my facebook account!](https://www.facebook.com/philipjulrenzpionelo/)
 
 <!--
 **Philippians/philippians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
