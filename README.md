@@ -1,11 +1,6 @@
 #  Philip Julrenz A. Pionelo 👨‍💼
-#### Computer Engineering Student - 3rd Year 💻 <br/>
-###### Adamson University 🎓
+#### 💻 Computer Engineer <br/>
 <br/>
-
-> 🤖 I’m currently learning **python** and **html**.
-
-> ⚡ Fun fact: I like music, anime, and photography.
 
 <!--
 **Philippians/philippians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
